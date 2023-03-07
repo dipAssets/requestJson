@@ -15,5 +15,18 @@
             ],
             "Semester":true
         }
+    },
+    {
+        "eventName": "Flutter Forward",
+        "eventDetails": {
+            "fullName": true,
+            "Stream": true,
+            "rollNumber": true,
+            "AotMail": true,
+            "personalEmail": true,
+            "phoneNumber": true,
+            
+            "Semester":true
+        }
     }
 ]
