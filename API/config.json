@@ -9,6 +9,7 @@
             "personalEmail": "true",
             "phoneNumber": "true",
             "Semester":"true",
+            "hasTopics":"true",
             "topics": [
                 "IOT",
                 "Ethical Hack",
@@ -27,6 +28,7 @@
             "personalEmail": "true",
             "phoneNumber": "true",
             "Semester":"true",
+            "hasTopics":"true",
              "topics": [
                 "Competition 1",
                 "Competetion 2",
