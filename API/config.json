@@ -1,0 +1,19 @@
+[
+    {
+        "eventName": "TechKriti",
+        "eventDetails": {
+            "fullName": true,
+            "Stream": true,
+            "rollNumber": true,
+            "AotMail": true,
+            "personalEmail": true,
+            "phoneNumber": true,
+            "topics": [
+                "IOT",
+                "Ethical Hacking",
+                "Both"
+            ],
+            "Semester":true
+        }
+    }
+]
