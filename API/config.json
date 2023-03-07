@@ -8,12 +8,13 @@
             "AotMail": "true",
             "personalEmail": "true",
             "phoneNumber": "true",
+            "Semester":"true"
             "topics": [
                 "IOT",
                 "Ethical Hack",
                 "Both"
-            ],
-            "Semester":"true"
+            ]
+           
         }
     },
     {
@@ -25,7 +26,6 @@
             "AotMail": "true",
             "personalEmail": "true",
             "phoneNumber": "true",
-            
             "Semester":"true"
         }
     }
