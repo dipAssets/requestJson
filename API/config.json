@@ -8,7 +8,7 @@
             "AotMail": "true",
             "personalEmail": "true",
             "phoneNumber": "true",
-            "Semester":"true"
+            "Semester":"true",
             "topics": [
                 "IOT",
                 "Ethical Hack",
