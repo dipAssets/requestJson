@@ -14,7 +14,8 @@
                 "IOT",
                 "Ethical Hack",
                 "Both"
-            ]
+            ],
+            "isMember":"true"
            
         }
     },
@@ -33,7 +34,8 @@
                 "Competition 1",
                 "Competetion 2",
                 "Competetion 3"
-            ]
+            ],
+             "isMember":"true"
         }
     }
 ]
