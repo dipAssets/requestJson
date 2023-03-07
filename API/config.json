@@ -26,7 +26,12 @@
             "AotMail": "true",
             "personalEmail": "true",
             "phoneNumber": "true",
-            "Semester":"true"
+            "Semester":"true",
+             "topics": [
+                "Competition 1",
+                "Competetion 2",
+                "Competetion 3"
+            ]
         }
     }
 ]
